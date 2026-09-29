@@ -5,6 +5,9 @@
 [![Explorer](https://img.shields.io/badge/Explorer-Live-brightgreen)](https://explorer.univexnetwork.org)
 [![Security](https://img.shields.io/badge/Security-AI--Secured%20%7C%20EVM-purple)](#)
 
+[![Chainlist](https://img.shields.io/badge/Chainlist-Listed-blue)](https://chainlist.org/chain/7932)
+[![CoinGecko](https://img.shields.io/badge/CoinGecko-Tracked-brightgreen)](https://www.coingecko.com/en/coins/univex)
+
 Univex Network is an AI-powered, highly secure, and EVM-compatible Layer-1 blockchain engineered to bridge decentralized intelligence, high-throughput microtransactions, and native mobile ecosystem integration.
 
 ---
